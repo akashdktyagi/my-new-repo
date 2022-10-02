@@ -23,4 +23,8 @@ public class HomePageStepDefs {
 		}
 
 	}
+
+	public void newMethod(){
+		String a = "a";
+	}
 }

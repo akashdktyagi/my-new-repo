@@ -26,4 +26,9 @@ import cucumber.api.junit.Cucumber;
 		)
 public class RunTest {
 
+	public void ashMethod(){
+		//a new method
+	}
+
+
 }
